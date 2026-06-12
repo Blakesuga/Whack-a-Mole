@@ -20,5 +20,5 @@ pip install pygame
 ## How to Play
 
 - A mole will appear somewhere on the grid
-- Click on it to make it move to a new location
-- Try to click it as many times as you can and have fun!
+- Click on the mole to make it move to a new location
+- Try to whack the mole as many times as you can and have fun!
